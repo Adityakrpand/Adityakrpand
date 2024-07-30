@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Aditya Pandey</h1>
-<h3 align="center">A passionate MERN STACK Developer from Asansol</h3>
+<h3 align="center">A passionate MERN STACK Developer</h3>
 
 <img src="img.gif" align="centre" alt="Coding" width="500" />
 </a> <br>
